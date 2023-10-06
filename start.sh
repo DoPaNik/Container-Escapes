@@ -1,0 +1,1 @@
+docker run -v /var/run/docker.sock:/var/run/docker.sock -p 8888:5000 flask-docker

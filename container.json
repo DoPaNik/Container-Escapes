@@ -1,0 +1,6 @@
+{
+    "Cmd": [
+        "/bin/bash"
+    ],
+    "Image": "ubuntu"
+}
